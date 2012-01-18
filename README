@@ -8,4 +8,4 @@ System Requirements:
   Tested on Android 2.3.7
   Requires Android 2.2 (Froyo)
 
-Compile using Eclipse and the Android API or simply install the .apk included in the repo.
+Compile using Eclipse and the Android API or simply install the .apk included in the /bin/ folder.
