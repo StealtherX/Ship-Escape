@@ -1,0 +1,11 @@
+Ship Escape
+by Kevin Jacobs
+
+This is my first Android game made from scratch using the framework I learned to make from Beginning Android Games by Mario Zechner. Tilt the screen to make the ship dodge asteroids and try to beat the high score!
+
+System Requirements:
+
+  Tested on Android 2.3.7
+  Requires Android 2.2 (Froyo)
+
+Compile using Eclipse and the Android API or simply install the .apk included in the repo.
